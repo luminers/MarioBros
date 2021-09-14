@@ -10,24 +10,24 @@ kaboom({
 
 
 //Carga de los pngs
-loadSprite('moneda', './graficos/2 - wbKxhcd.png')
-loadSprite('hongo-malvado','./graficos/3 - KPO3fR9.png')
-loadSprite('ladrillo','./graficos/1 - pogC9x5.png')
-loadSprite('mario','./graficos/6 - Wb1qfhK.png')
-loadSprite('bloque','./graficos/20 - M6rwarW.png')
-loadSprite('hongo','./graficos/7 - 0wMd92p.png')
-loadSprite('bloque-sorpresa','./graficos/9 - gesQ1KP.png')
-loadSprite('bloque-abierto','./graficos/10 - bdrLpi6.png')
-loadSprite('tubo-arriba-der','./graficos/13 - hj2GK4n.png')
-loadSprite('tubo-arriba-izq','./graficos/14 - ReTPiWY.png')
-loadSprite('tubo-abajo-der','./graficos/12 - nqQ79eI.png')
-loadSprite('tubo-abajo-izq','./graficos/11 - c1cYSbt.png')
+loadSprite('moneda', 'https://i.imgur.com/wbKxhcd.png')
+loadSprite('hongo-malvado','https://i.imgur.com/KPO3fR9.png')
+loadSprite('ladrillo','https://i.imgur.com/pogC9x5.png')
+loadSprite('mario','https://i.imgur.com/Wb1qfhK.png')
+loadSprite('bloque','https://i.imgur.com/M6rwarW.png')
+loadSprite('hongo','https://i.imgur.com/0wMd92p.png')
+loadSprite('bloque-sorpresa','https://i.imgur.com/gesQ1KP.png')
+loadSprite('bloque-abierto','https://i.imgur.com/bdrLpi6.png')
+loadSprite('tubo-arriba-der','https://i.imgur.com/hj2GK4n.png')
+loadSprite('tubo-arriba-izq','https://i.imgur.com/ReTPiWY.png')
+loadSprite('tubo-abajo-der','https://i.imgur.com/nqQ79eI.png')
+loadSprite('tubo-abajo-izq','https://i.imgur.com/c1cYSbt.png')
 
-loadSprite('bloque-azul','./graficos/17 - gqVoI2b.png')
-loadSprite('ladrillo-azul','./graficos/15 - 3e5YRQd.png')
-loadSprite('bloque-sorpresa-azul', './graficos/18 - RMqCc1G.png')
-loadSprite('hongo-malvado-azul','./graficos/16 - SvV4ueD.png')
-loadSprite('brick-azul', './graficos/19 - fVscIbn.png')
+loadSprite('bloque-azul','https://i.imgur.com/gqVoI2b.png')
+loadSprite('ladrillo-azul','https://i.imgur.com/3e5YRQd.png')
+loadSprite('bloque-sorpresa-azul', 'https://i.imgur.com/RMqCc1G.png')
+loadSprite('hongo-malvado-azul','https://i.imgur.com/SvV4ueD.png')
+loadSprite('brick-azul', 'https://i.imgur.com/fVscIbn.png')
 
 //! Montaje de la escena
 scene("game",({nivel,puntaje}) =>{
