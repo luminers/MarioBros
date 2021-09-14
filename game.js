@@ -10,24 +10,24 @@ kaboom({
 
 
 //Carga de los pngs
-loadSprite('moneda', 'graficos/2 - wbKxhcd.png')
-loadSprite('hongo-malvado','graficos/3 - KPO3fR9.png')
-loadSprite('ladrillo','graficos/1 - pogC9x5.png')
-loadSprite('mario','graficos/6 - Wb1qfhK.png')
-loadSprite('bloque','graficos/20 - M6rwarW.png')
-loadSprite('hongo','graficos/7 - 0wMd92p.png')
-loadSprite('bloque-sorpresa','graficos/9 - gesQ1KP.png')
-loadSprite('bloque-abierto','graficos/10 - bdrLpi6.png')
-loadSprite('tubo-arriba-der','graficos/13 - hj2GK4n.png')
-loadSprite('tubo-arriba-izq','graficos/14 - ReTPiWY.png')
-loadSprite('tubo-abajo-der','graficos/12 - nqQ79eI.png')
-loadSprite('tubo-abajo-izq','graficos/11 - c1cYSbt.png')
+loadSprite('moneda', 'https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/2%20-%20wbKxhcd.png')
+loadSprite('hongo-malvado','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/3%20-%20KPO3fR9.png')
+loadSprite('ladrillo','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/1%20-%20pogC9x5.png')
+loadSprite('mario','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/6%20-%20Wb1qfhK.png')
+loadSprite('bloque','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/20%20-%20M6rwarW.png')
+loadSprite('hongo','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/7%20-%200wMd92p.png')
+loadSprite('bloque-sorpresa','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/9%20-%20gesQ1KP.png')
+loadSprite('bloque-abierto','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/10%20-%20bdrLpi6.png')
+loadSprite('tubo-arriba-der','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/13%20-%20hj2GK4n.png')
+loadSprite('tubo-arriba-izq','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/14%20-%20ReTPiWY.png')
+loadSprite('tubo-abajo-der','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/12%20-%20nqQ79eI.png')
+loadSprite('tubo-abajo-izq','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/11%20-%20c1cYSbt.png')
 
-loadSprite('bloque-azul','graficos/17 - gqVoI2b.png')
-loadSprite('ladrillo-azul','graficos/15 - 3e5YRQd.png')
-loadSprite('bloque-sorpresa-azul', 'graficos/18 - RMqCc1G.png')
-loadSprite('hongo-malvado-azul','graficos/16 - SvV4ueD.png')
-loadSprite('brick-azul', 'graficos/19 - fVscIbn.png')
+loadSprite('bloque-azul','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/17%20-%20gqVoI2b.png')
+loadSprite('ladrillo-azul','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/15%20-%203e5YRQd.png')
+loadSprite('bloque-sorpresa-azul', 'https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/18%20-%20RMqCc1G.png')
+loadSprite('hongo-malvado-azul','https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/16%20-%20SvV4ueD.png')
+loadSprite('brick-azul', 'https://github.com/luminers/MarioBros.github.io/blob/abe59520e6bc0b093b10ab53bfa7c4d05be578fd/graficos/19%20-%20fVscIbn.png')
 
 
 //! Montaje de la escena
