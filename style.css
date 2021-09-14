@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    overflow: hidden;
+    
+}
+
+.aviso{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    font-size: .9em;
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(123, 90, 90);
+    text-align: center;
+    
+}
+
+
+
+
+
+@media screen and (max-width:850px){
+ 
+}
